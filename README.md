@@ -5,4 +5,5 @@ Seleccione una base de datos con el tema de VINOS y sus caracteristicas, dejo el
 La idea principal era realizar una prediccion, el problema se dio cuando en el proceso de visualizar cuales eran los datos que estaban correlacionados con la calidad, indicaban que no estaban para nada correlacionados.<br>
 En su lugar decidi predecir si se trataba de un vino Blanco o Tinto dependiento de las siguientes características: ["volatile acidity", "chlorides", "total sulfur dioxide", "sulphates"]<br>
 Incluire un archivo .pynb donde estara la red neuronal con todo el estudio estadistico previo.
+<br>
 <img src="Img/Realidad.jpg" alt="xd">
